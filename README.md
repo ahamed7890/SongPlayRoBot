@@ -6,7 +6,7 @@
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
+Demo : [𝗥𝗜𝗬𝗔 ♪ 𝗺𝘂𝘀𝗶𝘅](https:t.me/SongProBot)
 
 Easy To Deploy 🤗
 
